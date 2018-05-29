@@ -1,0 +1,12 @@
+D:\PWr\UP\Lab1 - prawidlowe\Lab1 - prawidlowe\bin\Debug\Lab1 - prawidlowe.exe.config
+D:\PWr\UP\Lab1 - prawidlowe\Lab1 - prawidlowe\bin\Debug\Lab1 - prawidlowe.exe
+D:\PWr\UP\Lab1 - prawidlowe\Lab1 - prawidlowe\bin\Debug\Lab1 - prawidlowe.pdb
+D:\PWr\UP\Lab1 - prawidlowe\Lab1 - prawidlowe\bin\Debug\InTheHand.Net.Personal.dll
+D:\PWr\UP\Lab1 - prawidlowe\Lab1 - prawidlowe\bin\Debug\InTheHand.Net.Personal.xml
+D:\PWr\UP\Lab1 - prawidlowe\Lab1 - prawidlowe\obj\Debug\Lab1 - prawidlowe.csprojResolveAssemblyReference.cache
+D:\PWr\UP\Lab1 - prawidlowe\Lab1 - prawidlowe\obj\Debug\Lab1___prawidlowe.Form1.resources
+D:\PWr\UP\Lab1 - prawidlowe\Lab1 - prawidlowe\obj\Debug\Lab1___prawidlowe.Properties.Resources.resources
+D:\PWr\UP\Lab1 - prawidlowe\Lab1 - prawidlowe\obj\Debug\Lab1 - prawidlowe.csproj.GenerateResource.Cache
+D:\PWr\UP\Lab1 - prawidlowe\Lab1 - prawidlowe\obj\Debug\Lab1 - prawidlowe.csproj.CoreCompileInputs.cache
+D:\PWr\UP\Lab1 - prawidlowe\Lab1 - prawidlowe\obj\Debug\Lab1 - prawidlowe.exe
+D:\PWr\UP\Lab1 - prawidlowe\Lab1 - prawidlowe\obj\Debug\Lab1 - prawidlowe.pdb

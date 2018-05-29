@@ -1,0 +1,12 @@
+D:\PWr\UP\Xbox 360 pad\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\PWr\UP\Xbox 360 pad\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\PWr\UP\Xbox 360 pad\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\PWr\UP\Xbox 360 pad\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.WindowsRuntime.dll
+D:\PWr\UP\Xbox 360 pad\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.WindowsRuntime.xml
+D:\PWr\UP\Xbox 360 pad\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\PWr\UP\Xbox 360 pad\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\PWr\UP\Xbox 360 pad\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\PWr\UP\Xbox 360 pad\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\PWr\UP\Xbox 360 pad\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\PWr\UP\Xbox 360 pad\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\PWr\UP\Xbox 360 pad\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources

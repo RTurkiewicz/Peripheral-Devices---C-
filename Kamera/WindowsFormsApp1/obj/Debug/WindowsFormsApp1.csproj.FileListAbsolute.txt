@@ -1,0 +1,44 @@
+D:\PWr\UP\Kamera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\PWr\UP\Kamera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\PWr\UP\Kamera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\PWr\UP\Kamera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.dll
+D:\PWr\UP\Kamera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Imaging.dll
+D:\PWr\UP\Kamera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Math.dll
+D:\PWr\UP\Kamera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.DirectShow.dll
+D:\PWr\UP\Kamera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.dll
+D:\PWr\UP\Kamera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Vision.dll
+D:\PWr\UP\Kamera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.xml
+D:\PWr\UP\Kamera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Imaging.xml
+D:\PWr\UP\Kamera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Math.xml
+D:\PWr\UP\Kamera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.xml
+D:\PWr\UP\Kamera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.DirectShow.xml
+D:\PWr\UP\Kamera\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Vision.xml
+D:\PWr\UP\Kamera\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\PWr\UP\Kamera\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\PWr\UP\Kamera\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\PWr\UP\Kamera\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\PWr\UP\Kamera\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\PWr\UP\Kamera\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\PWr\UP\Kamera\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\PWr\UP\Kamera\WindowsFormsApp1 — kopia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\PWr\UP\Kamera\WindowsFormsApp1 — kopia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\PWr\UP\Kamera\WindowsFormsApp1 — kopia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\PWr\UP\Kamera\WindowsFormsApp1 — kopia\WindowsFormsApp1\bin\Debug\AForge.dll
+D:\PWr\UP\Kamera\WindowsFormsApp1 — kopia\WindowsFormsApp1\bin\Debug\AForge.Imaging.dll
+D:\PWr\UP\Kamera\WindowsFormsApp1 — kopia\WindowsFormsApp1\bin\Debug\AForge.Math.dll
+D:\PWr\UP\Kamera\WindowsFormsApp1 — kopia\WindowsFormsApp1\bin\Debug\AForge.Video.DirectShow.dll
+D:\PWr\UP\Kamera\WindowsFormsApp1 — kopia\WindowsFormsApp1\bin\Debug\AForge.Video.dll
+D:\PWr\UP\Kamera\WindowsFormsApp1 — kopia\WindowsFormsApp1\bin\Debug\AForge.Vision.dll
+D:\PWr\UP\Kamera\WindowsFormsApp1 — kopia\WindowsFormsApp1\bin\Debug\AForge.xml
+D:\PWr\UP\Kamera\WindowsFormsApp1 — kopia\WindowsFormsApp1\bin\Debug\AForge.Imaging.xml
+D:\PWr\UP\Kamera\WindowsFormsApp1 — kopia\WindowsFormsApp1\bin\Debug\AForge.Math.xml
+D:\PWr\UP\Kamera\WindowsFormsApp1 — kopia\WindowsFormsApp1\bin\Debug\AForge.Video.xml
+D:\PWr\UP\Kamera\WindowsFormsApp1 — kopia\WindowsFormsApp1\bin\Debug\AForge.Video.DirectShow.xml
+D:\PWr\UP\Kamera\WindowsFormsApp1 — kopia\WindowsFormsApp1\bin\Debug\AForge.Vision.xml
+D:\PWr\UP\Kamera\WindowsFormsApp1 — kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\PWr\UP\Kamera\WindowsFormsApp1 — kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\PWr\UP\Kamera\WindowsFormsApp1 — kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\PWr\UP\Kamera\WindowsFormsApp1 — kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\PWr\UP\Kamera\WindowsFormsApp1 — kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\PWr\UP\Kamera\WindowsFormsApp1 — kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\PWr\UP\Kamera\WindowsFormsApp1 — kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
